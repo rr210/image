@@ -1,0 +1,95 @@
+{
+  "class_room": "17针推实验班",
+  "data": [
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "宋丽娟",
+      "teacher_id": "01100162",
+      "class_name": "传染病学"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "刘琰",
+      "teacher_id": "100696",
+      "class_name": "传染病学"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "罗文荣",
+      "teacher_id": "100401",
+      "class_name": "外科学"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "康文钦",
+      "teacher_id": "100760",
+      "class_name": "外科学"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "孙敏",
+      "teacher_id": "100761",
+      "class_name": "外科学"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "侯玉铎",
+      "teacher_id": "01100178",
+      "class_name": "针灸医籍选读"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "乔云英",
+      "teacher_id": "01100182",
+      "class_name": "针灸医籍选读"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "田岳凤",
+      "teacher_id": "01100170",
+      "class_name": "针灸各家学说"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "金晓飞",
+      "teacher_id": "01100174",
+      "class_name": "实验针灸学;针刀医学"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "董爱爱",
+      "teacher_id": "01100557",
+      "class_name": "实验针灸学"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "李丹",
+      "teacher_id": "01100453",
+      "class_name": "Visual Basic程序设计"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "杨艳君",
+      "teacher_id": "02200002",
+      "class_name": "医学统计学"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "程树英",
+      "teacher_id": "01100109",
+      "class_name": "中医药信息检索"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "陈珏",
+      "teacher_id": "100691",
+      "class_name": "中医药信息检索"
+    },
+    {
+      "class_room": "17针推实验班",
+      "teacher_name": "王萍",
+      "teacher_id": "01100431",
+      "class_name": "毛泽东思想和中国特色社会主义理论体系概论Ⅰ;毛泽东思想和中国特色社会主义理论体系概论Ⅱ"
+    }
+  ]
+}
